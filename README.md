@@ -1,3 +1,3 @@
-# Sample React Project in CLoudflare
+# Sample React Project in Cloudflare
 
-This project hosted at [Cloudflare Pages](https://sample.sathindu.me)
+This project hosted at Cloudflare Pages: [Demo](https://sample.sathindu.me)
