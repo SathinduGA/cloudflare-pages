@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Main Page
+          Profile
         </a>
       </header>
     </div>
